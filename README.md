@@ -25,16 +25,12 @@ The project aims to:
 - Practice dashboard design with real-world datasets
 - Enhance decision-making through clear data representation
 
-## 📸 Screenshots
-
-(Add dashboard screenshots here, if available)
 
 ## 📂 Files Included
 
-- `Netflix_Dashboard.pdf` – Project report
-- `Netflix_Dashboard.pbix` – Power BI file (optional)
+- `Netflix_Dashboard.pdf` – Project report)
 - `Netflix_Dashboard.twbx` – Tableau file (optional)
-- `netflix_titles.csv` – Dataset used (if allowed)
+- `netflix_titles.csv` – Dataset used 
 
 ## 📎 How to Use
 
